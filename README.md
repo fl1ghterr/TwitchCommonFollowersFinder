@@ -24,7 +24,8 @@ The script reads a raw list of usernames and processes it to count the occurrenc
   ```
 
 3. Run the project
-  ```go run main.go
+  ```bash
+go run main.go
   ```
 
 4. All done
