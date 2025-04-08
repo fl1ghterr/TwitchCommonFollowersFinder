@@ -1,6 +1,6 @@
 # Go Script to Count and Find Following List
 
-This Go script is designed to count and find the following list for a list of people from a raw user data string.
+This Go script is designed to count and find the following list for a list of people from a raw user data string.So you can find common streamers or check the percentage of any channel's current viewers to overlapping audiences, or even find bot accounts.
 
 ## Overview
 
@@ -19,13 +19,12 @@ The script reads a raw list of usernames and processes it to count the occurrenc
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
-  ```
-
+   git clone https://github.com/fl1ghterr/TwitchCommonFollowersFinder.git
+   cd TwitchCommonFollowersFinder
+  '''
 3. Run the project
   ```bash
-go run main.go
+   go run main.go
   ```
 
 4. All done
