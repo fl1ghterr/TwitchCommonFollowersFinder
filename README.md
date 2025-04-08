@@ -11,6 +11,7 @@ The script reads a raw list of usernames and processes it to count the occurrenc
 - Parse a raw list of usernames.
 - Count how many times each user appears in the list of following.
 - Determine the percentage of tracked users and overlapping audiences.
+- Output goes directly to output.txt
 
 ## Installation
 
@@ -27,4 +28,4 @@ The script reads a raw list of usernames and processes it to count the occurrenc
   go run main.go
   ```
 
-4. All done
+4. Edit as you want...
