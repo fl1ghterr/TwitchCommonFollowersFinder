@@ -21,10 +21,10 @@ The script reads a raw list of usernames and processes it to count the occurrenc
    ```bash
    git clone https://github.com/fl1ghterr/TwitchCommonFollowersFinder.git
    cd TwitchCommonFollowersFinder
-  '''
+   ```
 3. Run the project
   ```bash
-   go run main.go
+  go run main.go
   ```
 
 4. All done
